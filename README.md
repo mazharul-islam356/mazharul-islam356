@@ -11,7 +11,7 @@
     </a>
 
         
- <a target="_blank" href="https://my-portfolio-c317a.web.app/">
+ <a target="_blank" href="https://mazharulislam.online">
         <img width="50px" height="50px" src="https://i.ibb.co/PTCGZh1/internet.png" alt="">
     </a>
 
